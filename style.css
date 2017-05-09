@@ -1,0 +1,42 @@
+.input, .players {
+text-align: center;
+}
+
+.figures {
+  text-align: right;
+
+}
+
+#container {
+  background-color: green;
+}
+
+.body{
+background-color: green;
+  display: flex;
+  align-items: center;
+}
+
+#div11{
+  text-align: center;
+}
+
+.form-control{
+  margin-top:2px;
+}
+
+.players,
+#figures7,#figures10,#figures13,#figures20,
+#figures227, #figures337, #figures447,#figures557, #figures667, #figures777,
+#figures2210, #figures3310, #figures4410,#figures5510, #figures6610, #figures7710,
+#figures2213, #figures3313, #figures4413 ,#figures5513, #figures6613, #figures7713,
+#figures2220, #figures3320, #figures4420, #figures5520, #figures6620, #figures7720{
+  background-color: green;
+  color:white;
+}
+
+#figures226, #figures336, #figures446,#figures556, #figures666, #figures776 {
+  color: grey;
+  font-weight: lighter;
+  font-style: italic;
+}
